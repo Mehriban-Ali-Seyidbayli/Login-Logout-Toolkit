@@ -1,9 +1,11 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Service app with Redux-Toolkit, React-Bootstrap, Sweetalert2, Toastify and Axios.
 
-Currently, two official plugins are available:
+### I've done Login-Logout actions with Redux-toolkit.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Login-Logout-Toolkit
+### Catagories and Category details were fetched from API by using Axios.
+
+## Screen Gif
+
+![](screen.gif)
